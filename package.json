@@ -1,0 +1,27 @@
+{
+  "name": "trim-all",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SahilKumarGit/trim-all.git"
+  },
+  "author": "SahilKumarSahoo <email.sahil@yahoo.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SahilKumarGit/trim-all/issues"
+  },
+  "homepage": "https://github.com/SahilKumarGit/trim-all#readme",
+  "devDependencies": {
+    "@types/node": "^18.11.9",
+    "typescript": "^4.9.3"
+  },
+  "files": [
+    "lib/**/*"
+  ]
+}
