@@ -11,5 +11,5 @@ function trimAll(value: any): any {
     if (typeof value == 'string') return value.trim();
     return value;
 }
-
+// all dine
 export default trimAll;
